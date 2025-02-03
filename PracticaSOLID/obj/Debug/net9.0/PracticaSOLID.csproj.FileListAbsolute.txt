@@ -1,0 +1,14 @@
+C:\Users\khyar\Downloads\Proyectos C#\PracticaSOLID\PracticaSOLID\bin\Debug\net9.0\PracticaSOLID.exe
+C:\Users\khyar\Downloads\Proyectos C#\PracticaSOLID\PracticaSOLID\bin\Debug\net9.0\PracticaSOLID.deps.json
+C:\Users\khyar\Downloads\Proyectos C#\PracticaSOLID\PracticaSOLID\bin\Debug\net9.0\PracticaSOLID.runtimeconfig.json
+C:\Users\khyar\Downloads\Proyectos C#\PracticaSOLID\PracticaSOLID\bin\Debug\net9.0\PracticaSOLID.dll
+C:\Users\khyar\Downloads\Proyectos C#\PracticaSOLID\PracticaSOLID\bin\Debug\net9.0\PracticaSOLID.pdb
+C:\Users\khyar\Downloads\Proyectos C#\PracticaSOLID\PracticaSOLID\obj\Debug\net9.0\PracticaSOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khyar\Downloads\Proyectos C#\PracticaSOLID\PracticaSOLID\obj\Debug\net9.0\PracticaSOLID.AssemblyInfoInputs.cache
+C:\Users\khyar\Downloads\Proyectos C#\PracticaSOLID\PracticaSOLID\obj\Debug\net9.0\PracticaSOLID.AssemblyInfo.cs
+C:\Users\khyar\Downloads\Proyectos C#\PracticaSOLID\PracticaSOLID\obj\Debug\net9.0\PracticaSOLID.csproj.CoreCompileInputs.cache
+C:\Users\khyar\Downloads\Proyectos C#\PracticaSOLID\PracticaSOLID\obj\Debug\net9.0\PracticaSOLID.dll
+C:\Users\khyar\Downloads\Proyectos C#\PracticaSOLID\PracticaSOLID\obj\Debug\net9.0\refint\PracticaSOLID.dll
+C:\Users\khyar\Downloads\Proyectos C#\PracticaSOLID\PracticaSOLID\obj\Debug\net9.0\PracticaSOLID.pdb
+C:\Users\khyar\Downloads\Proyectos C#\PracticaSOLID\PracticaSOLID\obj\Debug\net9.0\PracticaSOLID.genruntimeconfig.cache
+C:\Users\khyar\Downloads\Proyectos C#\PracticaSOLID\PracticaSOLID\obj\Debug\net9.0\ref\PracticaSOLID.dll
