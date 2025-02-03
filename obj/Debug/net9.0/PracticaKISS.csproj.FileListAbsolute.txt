@@ -1,0 +1,14 @@
+C:\Users\khyar\Downloads\Proyectos C#\PracticaKISS\bin\Debug\net9.0\PracticaKISS.exe
+C:\Users\khyar\Downloads\Proyectos C#\PracticaKISS\bin\Debug\net9.0\PracticaKISS.deps.json
+C:\Users\khyar\Downloads\Proyectos C#\PracticaKISS\bin\Debug\net9.0\PracticaKISS.runtimeconfig.json
+C:\Users\khyar\Downloads\Proyectos C#\PracticaKISS\bin\Debug\net9.0\PracticaKISS.dll
+C:\Users\khyar\Downloads\Proyectos C#\PracticaKISS\bin\Debug\net9.0\PracticaKISS.pdb
+C:\Users\khyar\Downloads\Proyectos C#\PracticaKISS\obj\Debug\net9.0\PracticaKISS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khyar\Downloads\Proyectos C#\PracticaKISS\obj\Debug\net9.0\PracticaKISS.AssemblyInfoInputs.cache
+C:\Users\khyar\Downloads\Proyectos C#\PracticaKISS\obj\Debug\net9.0\PracticaKISS.AssemblyInfo.cs
+C:\Users\khyar\Downloads\Proyectos C#\PracticaKISS\obj\Debug\net9.0\PracticaKISS.csproj.CoreCompileInputs.cache
+C:\Users\khyar\Downloads\Proyectos C#\PracticaKISS\obj\Debug\net9.0\PracticaKISS.dll
+C:\Users\khyar\Downloads\Proyectos C#\PracticaKISS\obj\Debug\net9.0\refint\PracticaKISS.dll
+C:\Users\khyar\Downloads\Proyectos C#\PracticaKISS\obj\Debug\net9.0\PracticaKISS.pdb
+C:\Users\khyar\Downloads\Proyectos C#\PracticaKISS\obj\Debug\net9.0\PracticaKISS.genruntimeconfig.cache
+C:\Users\khyar\Downloads\Proyectos C#\PracticaKISS\obj\Debug\net9.0\ref\PracticaKISS.dll
