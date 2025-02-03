@@ -1,0 +1,14 @@
+C:\Users\khyar\Downloads\Proyectos C#\PracticaYAGNI\GestionProductos\bin\Debug\net9.0\GestionProductos.exe
+C:\Users\khyar\Downloads\Proyectos C#\PracticaYAGNI\GestionProductos\bin\Debug\net9.0\GestionProductos.deps.json
+C:\Users\khyar\Downloads\Proyectos C#\PracticaYAGNI\GestionProductos\bin\Debug\net9.0\GestionProductos.runtimeconfig.json
+C:\Users\khyar\Downloads\Proyectos C#\PracticaYAGNI\GestionProductos\bin\Debug\net9.0\GestionProductos.dll
+C:\Users\khyar\Downloads\Proyectos C#\PracticaYAGNI\GestionProductos\bin\Debug\net9.0\GestionProductos.pdb
+C:\Users\khyar\Downloads\Proyectos C#\PracticaYAGNI\GestionProductos\obj\Debug\net9.0\GestionProductos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khyar\Downloads\Proyectos C#\PracticaYAGNI\GestionProductos\obj\Debug\net9.0\GestionProductos.AssemblyInfoInputs.cache
+C:\Users\khyar\Downloads\Proyectos C#\PracticaYAGNI\GestionProductos\obj\Debug\net9.0\GestionProductos.AssemblyInfo.cs
+C:\Users\khyar\Downloads\Proyectos C#\PracticaYAGNI\GestionProductos\obj\Debug\net9.0\GestionProductos.csproj.CoreCompileInputs.cache
+C:\Users\khyar\Downloads\Proyectos C#\PracticaYAGNI\GestionProductos\obj\Debug\net9.0\GestionProductos.dll
+C:\Users\khyar\Downloads\Proyectos C#\PracticaYAGNI\GestionProductos\obj\Debug\net9.0\refint\GestionProductos.dll
+C:\Users\khyar\Downloads\Proyectos C#\PracticaYAGNI\GestionProductos\obj\Debug\net9.0\GestionProductos.pdb
+C:\Users\khyar\Downloads\Proyectos C#\PracticaYAGNI\GestionProductos\obj\Debug\net9.0\GestionProductos.genruntimeconfig.cache
+C:\Users\khyar\Downloads\Proyectos C#\PracticaYAGNI\GestionProductos\obj\Debug\net9.0\ref\GestionProductos.dll
