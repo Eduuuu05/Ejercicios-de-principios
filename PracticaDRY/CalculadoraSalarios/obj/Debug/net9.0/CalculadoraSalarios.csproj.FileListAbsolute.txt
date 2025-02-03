@@ -1,0 +1,14 @@
+C:\Users\khyar\Downloads\Proyectos C#\PracticaDRY\CalculadoraSalarios\bin\Debug\net9.0\CalculadoraSalarios.exe
+C:\Users\khyar\Downloads\Proyectos C#\PracticaDRY\CalculadoraSalarios\bin\Debug\net9.0\CalculadoraSalarios.deps.json
+C:\Users\khyar\Downloads\Proyectos C#\PracticaDRY\CalculadoraSalarios\bin\Debug\net9.0\CalculadoraSalarios.runtimeconfig.json
+C:\Users\khyar\Downloads\Proyectos C#\PracticaDRY\CalculadoraSalarios\bin\Debug\net9.0\CalculadoraSalarios.dll
+C:\Users\khyar\Downloads\Proyectos C#\PracticaDRY\CalculadoraSalarios\bin\Debug\net9.0\CalculadoraSalarios.pdb
+C:\Users\khyar\Downloads\Proyectos C#\PracticaDRY\CalculadoraSalarios\obj\Debug\net9.0\CalculadoraSalarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khyar\Downloads\Proyectos C#\PracticaDRY\CalculadoraSalarios\obj\Debug\net9.0\CalculadoraSalarios.AssemblyInfoInputs.cache
+C:\Users\khyar\Downloads\Proyectos C#\PracticaDRY\CalculadoraSalarios\obj\Debug\net9.0\CalculadoraSalarios.AssemblyInfo.cs
+C:\Users\khyar\Downloads\Proyectos C#\PracticaDRY\CalculadoraSalarios\obj\Debug\net9.0\CalculadoraSalarios.csproj.CoreCompileInputs.cache
+C:\Users\khyar\Downloads\Proyectos C#\PracticaDRY\CalculadoraSalarios\obj\Debug\net9.0\CalculadoraSalarios.dll
+C:\Users\khyar\Downloads\Proyectos C#\PracticaDRY\CalculadoraSalarios\obj\Debug\net9.0\refint\CalculadoraSalarios.dll
+C:\Users\khyar\Downloads\Proyectos C#\PracticaDRY\CalculadoraSalarios\obj\Debug\net9.0\CalculadoraSalarios.pdb
+C:\Users\khyar\Downloads\Proyectos C#\PracticaDRY\CalculadoraSalarios\obj\Debug\net9.0\CalculadoraSalarios.genruntimeconfig.cache
+C:\Users\khyar\Downloads\Proyectos C#\PracticaDRY\CalculadoraSalarios\obj\Debug\net9.0\ref\CalculadoraSalarios.dll
